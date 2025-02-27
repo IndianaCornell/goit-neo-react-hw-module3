@@ -1,5 +1,6 @@
 .contactItem {
   flex: 0 0 calc(33.33% - 20px);
+  min-width: 250px;
   box-sizing: border-box;
   border: 1px solid #535353;
   border-radius: 8px;
